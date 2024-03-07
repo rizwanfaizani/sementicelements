@@ -1,0 +1,107 @@
+header {
+    margin: 10px;
+    font-size:40px;
+    height: 75px;
+    width: 400px;
+    background-color: rgb(230, 176, 176);
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+nav {
+    margin: 10px;
+    font-size: 25px;
+    height: 35px;
+    width: 400px;
+    background-color: rgb(127, 255, 157);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+aside {
+    margin:  10px;
+    font-size: 27px;
+    height: 400px;
+    width: 150px;
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    margin: 10px;
+    font-size: 30px;
+    height: 400px;
+    width: 230px;
+    background-color: skyblue;
+    display: block;
+    justify-content: center;
+    align-items: flex-start;
+}    
+    
+
+article {
+    margin: 10px;
+    font-size: 25px;
+    height: 270px;
+    width: 200px;
+    
+    background-color: aqua;
+    justify-content: flex-start;
+    align-items: flex-start;
+    
+    
+}
+figure {
+    margin: 10px;
+    font-size: 25px;
+    height: 100px;
+    width: 180px;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ p{
+    margin: 10px;
+    font-size: 25px;
+    height: 100px;
+    width: 180px;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section {
+    margin: 10px;
+    font-size: 15px;
+    height: 50px;
+    width: 200px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+footer {
+    margin: 10px;
+    font-size: 40px;
+    height: 75px;
+    width:  400px;
+    background-color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-container {
+display: flex;
+padding: 0;
+margin: 0;
+}
+
+div {
+    text-align: center;
+    
+}
